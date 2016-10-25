@@ -1,0 +1,14 @@
+{
+	"name": "path",
+	"date": "10-25-2016",
+	"description": "Javascript Filepath Parsing.",
+	"main": "path.js",
+	"author": {
+		"name": "Scott Johnson"
+	},
+	"license": "UNLICENSED",
+	"version": "0.0.1",
+	"engine": "",
+	"repository":{},
+	"dependencies": {}
+}
